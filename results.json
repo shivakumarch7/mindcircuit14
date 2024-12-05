@@ -1,6 +1,6 @@
 [
   {
-    "Target": "shivakumarchigiri/cicdproject:8 (ubuntu 24.04)",
+    "Target": "shivakumarchigiri/cicdproject:9 (ubuntu 24.04)",
     "Type": "ubuntu"
   },
   {
